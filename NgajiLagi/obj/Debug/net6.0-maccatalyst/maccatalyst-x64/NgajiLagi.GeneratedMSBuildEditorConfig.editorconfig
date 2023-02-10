@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NgajiLagi
+build_property.ProjectDir = C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/View/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.View.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Login.xaml
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/View/LupaPassword.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.View.LupaPassword.xaml
+build_metadata.AdditionalFiles.TargetPath = View\LupaPassword.xaml
+build_metadata.AdditionalFiles.RelativePath = View\LupaPassword.xaml
