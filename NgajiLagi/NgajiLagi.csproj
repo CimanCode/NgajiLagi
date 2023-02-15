@@ -49,7 +49,9 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\jaket.jpg" />
 	  <None Remove="Resources\Images\Logo.svg" />
+	  <None Remove="Resources\Images\pen.svg" />
 	  <None Remove="Resources\Images\prev.svg" />
 	</ItemGroup>
 
@@ -58,6 +60,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="View\LupaPassword.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="View\UserProfile.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

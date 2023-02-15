@@ -964,3 +964,9 @@ C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-a
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\android\assets\System.Private.Uri.dll
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\android\assets\System.Xml.dll
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable\jaket.jpg
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\pen.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\pen.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\pen.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\pen.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\pen.png
