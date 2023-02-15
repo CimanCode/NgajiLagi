@@ -6,4 +6,14 @@ public partial class UserProfile : ContentPage
 	{
 		InitializeComponent();
 	}
+
+	private async void EditProfile(object sender, EventArgs e)
+	{
+		await Navigation.PushModalAsync(new EditProfile());
+	}
+
+	private async void GantiPassword(object sender, EventArgs e)
+	{
+		await Navigation.PushModalAsync(new GantiPassword());
+	}
 }

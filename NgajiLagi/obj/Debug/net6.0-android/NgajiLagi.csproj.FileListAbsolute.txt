@@ -970,3 +970,8 @@ C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-a
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\pen.png
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\pen.png
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\pen.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-hdpi\back.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-mdpi\back.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xhdpi\back.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xxhdpi\back.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-android\resizetizer\r\drawable-xxxhdpi\back.png

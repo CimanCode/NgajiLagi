@@ -40,6 +40,18 @@ build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.Resources.Styles
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/View/EditProfile.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.View.EditProfile.xaml
+build_metadata.AdditionalFiles.TargetPath = View\EditProfile.xaml
+build_metadata.AdditionalFiles.RelativePath = View\EditProfile.xaml
+
+[C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/View/GantiPassword.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.View.GantiPassword.xaml
+build_metadata.AdditionalFiles.TargetPath = View\GantiPassword.xaml
+build_metadata.AdditionalFiles.RelativePath = View\GantiPassword.xaml
+
 [C:/Users/Firman Abdul Rohman/source/repos/NgajiLagi/NgajiLagi/View/Login.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = NgajiLagi.View.Login.xaml

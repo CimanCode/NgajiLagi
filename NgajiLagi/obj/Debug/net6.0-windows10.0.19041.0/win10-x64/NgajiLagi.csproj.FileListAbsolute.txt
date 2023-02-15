@@ -368,3 +368,14 @@ C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-w
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-100.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-125.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-150.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-200.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\back.scale-400.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\jaket.scale-100.jpg
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pen.scale-100.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pen.scale-125.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pen.scale-150.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pen.scale-200.png
+C:\Users\Firman Abdul Rohman\source\repos\NgajiLagi\NgajiLagi\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pen.scale-400.png
